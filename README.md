@@ -8,4 +8,10 @@
 ### Activity
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
+### Projects
+* [EZ-RIOT-API][ezriotapi]
+* [Brackeys game jam 2020 project][loopiloop]
+
 [linkedin]: https://fr.linkedin.com/in/warren-noth-281572135
+[ezriotapi]: http://ez-riot-api.warren-noth.fr
+[loopiloop]: https://solber.itch.io/loopyloopjam
