@@ -6,6 +6,6 @@
 <br/><br/>
 
 ### Activity
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 [linkedin]: https://fr.linkedin.com/in/warren-noth-281572135
